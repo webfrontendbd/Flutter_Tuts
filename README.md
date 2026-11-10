@@ -1,5 +1,5 @@
-App Development with Flu1er
-Integra6ng AI and Machine Learning
+App Development with Flutter
+Integrating AI and Machine Learning
 
 MODULE-1: Dart Programming Basics (45 hours)
 Topics:
