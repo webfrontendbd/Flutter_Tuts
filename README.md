@@ -1,5 +1,6 @@
 App Development with Flu1er
 Integra6ng AI and Machine Learning
+
 MODULE-1: Dart Programming Basics (45 hours)
 Topics:
 1. Introduction to Dart
@@ -13,6 +14,7 @@ o Inheritance
 o Abstract classes and interfaces
 7. Exception Handling
 8. Asynchronous Programming: Future, async/await, Stream
+
 MODULE-2: Flutter Fundamentals (40 hours)
 Topics:
 1. Flutter Overview and Installation
@@ -26,6 +28,7 @@ o Container, Row, Column, Stack
 6. Forms and Validation
 7. Custom Widgets
 8. Themes and Styling
+
 MODULE-3: UI/UX & Advanced Widgets (40 hours)
 Focus on real-world UI with responsive design.
 Topics:
@@ -37,6 +40,7 @@ Topics:
 6. Responsive UI (mobile, tablet)
 7. Using Fonts, Images, and Media
 8. UI Testing and Debugging Layouts
+
 MODULE-4: State Management (45 hours)
 Learn multiple approaches and when to use them.
 Topics:
@@ -47,6 +51,7 @@ Topics:
 5. Redux (optional)
 6. Clean Architecture (Presentation, Domain, Data layers)
 7. Dependency Injection with get_it
+
 MODULE-5: Backend Integration & APIs (40 hours)
 Connect apps to real data sources.
 Topics:
@@ -58,6 +63,7 @@ Topics:
 6. WebSockets and Real-time Updates
 7. Offline Storage: Shared Preferences, SQLite
 8. GraphQL (intro)
+
 MODULE-6: Firebase & Cloud Services (40 hours)
 Integrate scalable backend services.
 Topics:
@@ -69,6 +75,7 @@ Topics:
 6. Firebase Analytics and Crashlytics
 7. Firebase Functions (overview)
 8. Security Rules and Permissions
+
 MODULE-7: Testing and Debugging (30 hours)
 Make apps stable and maintainable.
 Topics:
@@ -79,6 +86,7 @@ Topics:
 5. Test Coverage and CI Setup
 6. Debugging Tools and Techniques
 7. Performance Optimization
+
 MODULE-8: Deployment and DevOps (20 hours)
 Learn to release your app.
 Topics:
@@ -88,6 +96,7 @@ Topics:
 4. CI/CD with GitHub Actions or Codemagic
 5. Version Control (Git)
 6. Internationalization (i18n)
+
 MODULE-9:Capstone Projects (60 hours)
 Sample Projects:
 1. To-Do App – CRUD with local storage
